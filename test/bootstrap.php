@@ -2,6 +2,7 @@
 
 namespace PhpParser;
 
+//Import require file for this file! 
 require __DIR__ . '/../vendor/autoload.php';
 
 function canonicalize($str) {
